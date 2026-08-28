@@ -328,7 +328,7 @@ a:focus-visible {
   inset: 0;
   background:
     linear-gradient(#e69c6d14, #e69c6d14),
-    url("coffee-menu-background.png") 50% / cover no-repeat;
+    url("coffee-menu-background.webp") 50% / cover no-repeat;
 }
 .menu-title-row {
   display: flex;
